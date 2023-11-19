@@ -1,5 +1,5 @@
 #Keys
-./src/myKeys.js
+.js*
 # Logs
 logs
 *.log
