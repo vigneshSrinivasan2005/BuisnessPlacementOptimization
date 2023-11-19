@@ -1,5 +1,5 @@
 #Keys
-./myKeys.js
+*.pem
 # Logs
 logs
 *.log
