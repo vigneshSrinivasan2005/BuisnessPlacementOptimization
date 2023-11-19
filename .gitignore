@@ -1,5 +1,5 @@
 #Keys
-*.pem
+*Keys.pem
 # Logs
 logs
 *.log
